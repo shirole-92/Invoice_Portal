@@ -74,7 +74,7 @@ this project uses a **user_id-based authentication system** instead of session-b
 
 ### 1. Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/shirole-92/Invoice_Portal.git
 cd invoice-portal
 ````
 
